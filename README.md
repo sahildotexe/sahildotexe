@@ -32,7 +32,7 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 
 </p>
 <h2 align="center">🏆 Trophies</h2></a>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=sahildotexe&margin-w=40"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=sahildotexe&margin-w=10"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 <!--START_SECTION:waka-->
