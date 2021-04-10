@@ -7,9 +7,9 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 
 - 🌱 I’m currently learning **React, Node.Js and Ethical Hacking**
 
-- 👯 I’m looking to collaborate on any interesting project on **Web Dev, Blockchain**.
+- 👯 I’m looking to collaborate on any interesting project on **Web Dev, Cyber Security**.
 
-- 💬 Ask me about **New Technologies,JavaScript, Tech Reviews and movie reccomendations**
+- 💬 Ask me about **New Technologies,JavaScript, Tech Reviews and Movie Reccomendations**
 
 - 📫 You can reach me **[here](mailto:sahilkaling@gmail.com)**
 
