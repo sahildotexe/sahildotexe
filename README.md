@@ -13,7 +13,7 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 
 - 📫 You can reach me **[here](mailto:sahilkaling@gmail.com)**
 
-- ⚡ Fun fact I love **music:headphones:** and *football:football**
+- ⚡ Fun fact I love **music:headphones:** and **football:soccer:**
 <h3 align="center">😎 Languages, Framework and Tools:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
