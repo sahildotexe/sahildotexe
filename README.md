@@ -37,8 +37,10 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 <!--START_SECTION:waka-->
 ```text
-C     3 hrs 8 mins    ███████████████████▒░░░░░   77.48 % 
-C++   54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
+C      3 hrs 8 mins    █████████████▓░░░░░░░░░░░   54.31 % 
+CSS    59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 % 
+C++    54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HTML   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=sahildotexe&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildotexe&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
