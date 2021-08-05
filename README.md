@@ -37,11 +37,11 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 <!--START_SECTION:waka-->
 ```text
-HTML         8 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.66 % 
-JavaScript   6 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 % 
-CSS          5 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-EJS          4 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+HTML         7 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   31.92 % 
+JavaScript   6 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+CSS          4 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+EJS          4 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=sahildotexe&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildotexe&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
