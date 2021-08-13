@@ -37,9 +37,9 @@ src="https://img.shields.io/github/last-commit/sahildotexe/BOTS.PY" alt="sahildo
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 <!--START_SECTION:waka-->
 ```text
-HTML         12 hrs 53 mins  ██████████████▓░░░░░░░░░░   58.10 % 
-CSS          7 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 % 
-JavaScript   1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+HTML         13 hrs 53 mins  ███████████████▓░░░░░░░░░   62.60 % 
+CSS          6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+JavaScript   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 EJS          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
