@@ -4,7 +4,7 @@
 src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahildotexe" /> 
 
 
-- 🌱 I’m currently learning **React, Node.Js and Ethical Hacking**
+- 🌱 I’m currently learning **React, Node.Js and Solidity**
 
 - 👯 I’m looking to collaborate on any interesting project on **Web Dev, Cyber Security**.
 
