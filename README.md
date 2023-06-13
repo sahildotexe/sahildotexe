@@ -48,3 +48,5 @@ src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahi
 <a href="https://www.linkedin.com/in/sahil-kaling-5383641b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://instagram.com/_heysahil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
 </p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gi
