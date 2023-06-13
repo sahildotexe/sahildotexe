@@ -49,4 +49,4 @@ src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahi
 <a href="https://instagram.com/_heysahil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
 </p>
 
-![snake gif](https://github.com/sahildotexe/sahildotexe/blob/output/github-contribution-grid-snake.gi
+![snake gif](https://github.com/sahildotexe/sahildotexe/blob/output/github-contribution-grid-snake.gif)
