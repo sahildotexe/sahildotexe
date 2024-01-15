@@ -42,9 +42,6 @@ src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildotexe&theme=radical" alt="sahildotexe" /></p>
 
-
-<p align="center">
-<a href="https://wa.me/7972790788" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/sahil-kaling-5383641b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://instagram.com/_heysahil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
 </p>
