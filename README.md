@@ -13,24 +13,5 @@ src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahi
 - 📫 You can reach me **[here](mailto:sahilkaling@gmail.com)**
 
 - ⚡ Fun fact I love **music:headphones:** and **football:soccer:**
-<h3 align="center">😎 Languages, Framework and Tools:</h3>
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-64FFDA?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Github actions" src="https://img.shields.io/badge/-HTML5-64FFDA?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-CSS-64FFDA?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-64FFDA?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MaterialUI-64FFDA?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-64FFDA?style=flat-square&logo=html5&logoColor=white" />
- 
-  <img alt="Git" src="https://img.shields.io/badge/-Git-64FFDA?style=flat-square&logo=git&logoColor=white" />
- 
-  <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-64FFDA?style=flat-square&logo=npm&logoColor=white" />
 
-</p>
-<h2 align="center">🏆 Trophies</h2></a>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=sahildotexe&margin-w=30&theme=onedark&row=1"/>
-</p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
