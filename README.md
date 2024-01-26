@@ -34,14 +34,3 @@ src="https://img.shields.io/github/followers/sahildotexe?style=social" alt="sahi
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=sahildotexe&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahildotexe&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahildotexe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahildotexe&show_icons=true&locale=en&theme=radical" alt="sahildotexe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildotexe&theme=radical" alt="sahildotexe" /></p>
-
-<a href="https://www.linkedin.com/in/sahil-kaling-5383641b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
-<a href="https://instagram.com/_heysahil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
-</p>
